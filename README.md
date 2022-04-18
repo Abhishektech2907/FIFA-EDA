@@ -1,5 +1,5 @@
 # FIFA-EDA
-Its a sort data analyzation of FIFA  , the data collects from kaggle's website 
+Its a short data analyzation of FIFA  , the data collects from kaggle's website 
 here i cover-----
 1.fifa file reading
 2. analyzation on players nationality
